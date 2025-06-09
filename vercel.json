@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "inflyst.com"
+        }
+      ],
+      "destination": "https://www.inflyst.com",
+      "permanent": true
+    }
+  ]
+}
